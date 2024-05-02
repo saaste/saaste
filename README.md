@@ -1,16 +1,14 @@
-### Hi there 👋
+### Heya! 👋
 
-<!--
-**saaste/saaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Finland 🇫🇮 with 25+ years of experience. I'm a huge fan of `open source`, `privacy` and `IndieWeb`.
 
-Here are some ideas to get you started:
+I feel that the Internet used to be much better and a lot more fun in the early 2000s. If you don't have a homepage or a blog with an RSS feed, now is the perfect time to create one!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my repos are just small projects I created for myself, but feel free to use them. Over the years, I have been using many programming languages. At the moment, I'm mostly using `Go` for backend stuff and `vanilla JavaScript` for frontend stuff.
+
+Other things I like:
+- Reading
+- Videogames and boardgames
+- Endurance sports (running)
+- Traveling
+- Urbanism
