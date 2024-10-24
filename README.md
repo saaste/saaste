@@ -1,6 +1,6 @@
 ### Heya! 👋
 
-I'm a software developer from Finland 🇫🇮 with 25+ years of experience. I'm a huge fan of `open source`, `privacy` and `IndieWeb`.
+I'm a software developer from Finland 🇫🇮 with 25+ years of experience. I'm a huge fan of `open source`, `privacy` `self hosting` and `IndieWeb`.
 
 I feel that the Internet used to be much better and a lot more fun in the early 2000s. If you don't have a homepage or a blog with an RSS feed, now is the perfect time to create one!
 
@@ -8,7 +8,7 @@ Most of my repos are just small projects I created for myself, but feel free to 
 
 Other things I like:
 - Reading
-- Videogames and boardgames
+- Video games and board games
 - Endurance sports (running)
 - Traveling
 - Urbanism
